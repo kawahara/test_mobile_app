@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+  <ModulePrefs title="Mobile Test" description="Mobile Test" author="Shogo Kawahara" />
+  <Content type="url" view="mobile" href="#APP_URL#" />
+</Module>
